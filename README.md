@@ -12,3 +12,12 @@ Then clone this repo, and then run the following commands
 ```shell
 pytest -v -s test_case_01_add_and_search_user.py
 ```
+
+
+### API Testing
+
+Navigate to the api_testing folder and run this commnand.
+
+```shell
+pytest -v  test_api_with_dogbreed.py 
+```
