@@ -1,6 +1,6 @@
 # Selenium_with_python
 
-This is an automation framework used to test two main functionality on a website, ability to add a new user and the ability to search for that user.
+This is an automation framework used to test two main functionality on a website, ability to add a new user and the ability to search for that user. This framework is also coupled with an api testing functionality that allows a user to make request and perform assertion on the results.
 
 ## Setting up
 
